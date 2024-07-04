@@ -1,9 +1,18 @@
-## Hi there 👋
+## Hi, I'm Rodrigo
+👨🏻‍💻  About Me
+
+- 🔭 I’m currently working on an Project to adrress the problem of Illegal Unsupervised and Unregulated fishing
+- 🌱 I’m currently learning Data Science at BrainStation
+- 🤔 I’m looking for help with ideas for developing machine learning models to detect IUU fishing activities.
+- 💬 Ask me about Business Digital Transformation, Data Science, and Strategic Planning.
+- 📫 How to reach me: [rodrigo.pelayo@hotamail.com] or [https://www.linkedin.com/in/rodrigopelayo/]
+- ⚡ Fun fact:  I love climbing and exploring nature in my free time.
 
 <!--
 **rodrigopelayo3/rodrigopelayo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+👨🏻‍💻  About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
