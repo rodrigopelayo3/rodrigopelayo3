@@ -5,21 +5,26 @@
 - 🌱 I’m currently learning Data Science at BrainStation
 - 🤔 I’m looking for help with ideas for developing machine learning models to detect IUU fishing activities.
 - 💬 Ask me about Business Digital Transformation, Data Science, and Strategic Planning.
-- 📫 How to reach me: [rodrigo.pelayo@hotamail.com] or [https://www.linkedin.com/in/rodrigopelayo/]
+- 📫 How to reach me: [email](rodrigo.pelayo@hotamail.com) or [LinkedIn](https://www.linkedin.com/in/rodrigopelayo/)
 - ⚡ Fun fact:  I love climbing and exploring nature in my free time.
 
-<!--
-**rodrigopelayo3/rodrigopelayo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 &nbsp;Tech Stack
 
-Here are some ideas to get you started:
-👨🏻‍💻  About Me
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)&nbsp;
+![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=Plotly)&nbsp;
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn)&nbsp;
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS)&nbsp;
+![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=Apache-Hadoop)&nbsp;
+![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Apache-Spark)&nbsp;
+![Hive](https://img.shields.io/badge/-Hive-05122A?style=flat&logo=Apache-Hive)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL)&nbsp;
