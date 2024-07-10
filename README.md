@@ -1,10 +1,9 @@
 ## Hi, I'm Rodrigo
 
-
-''' Python
+´´´Python
 for iteration in range(DataScience):
   print(f'{iteration} it Depends!')
-'''
+´´´
 
 
 👨🏻‍💻  About Me
