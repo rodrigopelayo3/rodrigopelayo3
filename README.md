@@ -1,5 +1,15 @@
 ## Hi, I'm Rodrigo
+
+
+''' Python
+for iteration in range(DataScience):
+  print(f'{iteration} it Depends!')
+'''
+
+
 👨🏻‍💻  About Me
+
+I'm currently working on a project to Detect Illegal Fishing activity at sea, [come take a look!](https://github.com/rodrigopelayo3/Illegal-Fishing-Detection)
 
 - 🔭 I’m currently working on an Project to adrress the problem of Illegal Unsupervised and Unregulated fishing
 - 🌱 I’m currently learning Data Science at BrainStation
