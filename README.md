@@ -9,8 +9,8 @@ for iteration in range(DataScience):
 👨🏻‍💻  About Me
 
 - 🔭 I’m currently working on an Project to adrress the problem of Illegal Unsupervised and Unregulated fishing, [come take a look!](https://github.com/rodrigopelayo3/Illegal-Fishing-Detection)
-- 🌱 I’m currently learning Data Science at BrainStation
-- 🤔 I’m looking for help with ideas for developing machine learning models to detect IUU fishing activities.
+- 🌱 I’m currently improving my Data Science skills!
+- 🤔 I’m looking for help with ideas for making my project better.
 - 💬 Ask me about Business Digital Transformation, Data Science, and Strategic Planning.
 - 📫 How to reach me: [email](rodrigo.pelayo@hotamail.com) or [LinkedIn](https://www.linkedin.com/in/rodrigopelayo/)
 - ⚡ Fun fact:  I love climbing and exploring nature in my free time.
